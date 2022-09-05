@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Veinady Idle",
+	"idle_anim": "M Veinady Idle",
+	"position": [
+		200,
+		200
+	],
+	"scale": 0.45,
+	"image": "Menu_Veinady"
+}

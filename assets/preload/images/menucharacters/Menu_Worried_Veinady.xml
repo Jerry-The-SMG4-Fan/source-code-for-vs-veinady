@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Worried_Veinady.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Worried Veinady Idle0000" x="0" y="0" width="555" height="762" frameX="-4" frameY="-1" frameWidth="618" frameHeight="763"/>
+	<SubTexture name="M Worried Veinady Idle0001" x="0" y="0" width="555" height="762" frameX="-4" frameY="-1" frameWidth="618" frameHeight="763"/>
+	<SubTexture name="M Worried Veinady Idle0002" x="555" y="0" width="559" height="763" frameX="0" frameY="0" frameWidth="618" frameHeight="763"/>
+	<SubTexture name="M Worried Veinady Idle0003" x="555" y="0" width="559" height="763" frameX="0" frameY="0" frameWidth="618" frameHeight="763"/>
+	<SubTexture name="M Worried Veinady Idle0004" x="1114" y="0" width="538" height="748" frameX="-35" frameY="-15" frameWidth="618" frameHeight="763"/>
+	<SubTexture name="M Worried Veinady Idle0005" x="1114" y="0" width="538" height="748" frameX="-35" frameY="-15" frameWidth="618" frameHeight="763"/>
+	<SubTexture name="M Worried Veinady Idle0006" x="0" y="763" width="507" height="741" frameX="-80" frameY="-22" frameWidth="618" frameHeight="763"/>
+	<SubTexture name="M Worried Veinady Idle0007" x="0" y="763" width="507" height="741" frameX="-80" frameY="-22" frameWidth="618" frameHeight="763"/>
+	<SubTexture name="M Worried Veinady Idle0008" x="507" y="763" width="481" height="745" frameX="-137" frameY="-18" frameWidth="618" frameHeight="763"/>
+	<SubTexture name="M Worried Veinady Idle0009" x="507" y="763" width="481" height="745" frameX="-137" frameY="-18" frameWidth="618" frameHeight="763"/>
+	<SubTexture name="M Worried Veinady Idle0010" x="507" y="763" width="481" height="745" frameX="-137" frameY="-18" frameWidth="618" frameHeight="763"/>
+	<SubTexture name="M Worried Veinady Idle0011" x="507" y="763" width="481" height="745" frameX="-137" frameY="-18" frameWidth="618" frameHeight="763"/>
+	<SubTexture name="M Worried Veinady Idle0012" x="507" y="763" width="481" height="745" frameX="-137" frameY="-18" frameWidth="618" frameHeight="763"/>
+	<SubTexture name="M Worried Veinady Idle0013" x="507" y="763" width="481" height="745" frameX="-137" frameY="-18" frameWidth="618" frameHeight="763"/>
+</TextureAtlas>

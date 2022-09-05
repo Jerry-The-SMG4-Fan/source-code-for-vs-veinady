@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "drLinoado",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "THERE you are!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "worriedVeinady",
+			"boxState": "angry",
+			"expression": "panic",
+			"text": "Oh no! HE FOUND ME!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "drLinoado",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I do not know why you're running away."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "drLinoado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I just want to take you to my lab."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "drLinoado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "C'mon, Veinady, there's lots of fun things for you to do in my lab. There's no need for you to run away from me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "worriedVeinady",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, right. You just want to capture me..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "worriedVeinady",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...so you could take me to your lab and use me as a test subject for all of your deadly experiments. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "drLinoado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Veinady, don't be dramatic. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "drLinoado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I would NEVER do that."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "worriedVeinady",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I am NOT going back to your lab, Dr. Linoado. I want to be free and explore the world, I don't want to be a test subject."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "drLinoado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmmm...if you really don't believe me, maybe I can sing this song to prove to you that I'm telling the truth."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "worriedVeinady",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Try all you want, you can't make me believe you."
+		}
+	]
+}

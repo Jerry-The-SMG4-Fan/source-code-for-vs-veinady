@@ -1,0 +1,186 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Bo bap bep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh hello there sir...who are you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "The name's Dr. Linoado.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "drLinoado"
+		},
+		{
+			"expression": "talk",
+			"text": "But that doesn't matter.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "drLinoado"
+		},
+		{
+			"expression": "talk",
+			"text": "Have you two seen an anthropormorphic bat running around here? She wears a red dress and a wears a yellow cloth around her chest...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "drLinoado"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Why are you two so silent all of a sudden, and why do you seem nervous?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "drLinoado"
+		},
+		{
+			"expression": "confused",
+			"text": "Unless...",
+			"boxState": "normal",
+			"speed": 0.2,
+			"portrait": "drLinoado"
+		},
+		{
+			"expression": "confused",
+			"text": "Ska bo...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "annoyed",
+			"text": "You better not be hiding something!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "drLinoado"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Because I hate people who hides stuff from me!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "drLinoado"
+		},
+		{
+			"expression": "shocked",
+			"text": "Boi bep ba beep!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Holy hell! Chill, Dr.-uh-Linoado!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Answer my question truthfully: Have you seen an anthropormorphic bat...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "drLinoado"
+		},
+		{
+			"expression": "talk",
+			"text": "...that wears a red dress and has red wings...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "drLinoado"
+		},
+		{
+			"expression": "talk",
+			"text": "...and wears a yellow cloth around her chest?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "drLinoado"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Ba...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "It's hard to trust you right after you made a nervous expression after I asked that question the first time.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "drLinoado"
+		},
+		{
+			"expression": "confused",
+			"text": "Well...what can we do to gain your trust?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmm...",
+			"boxState": "normal",
+			"speed": 0.3,
+			"portrait": "drLinoado"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "If you can beat me in a rap battle here...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "drLinoado"
+		},
+		{
+			"expression": "talk",
+			"text": "I'll believe you don't know where that\\nanthropormorphic bat is.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "drLinoado"
+		},
+		{
+			"expression": "talk",
+			"text": "Bep ba bo bep boi beeeep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

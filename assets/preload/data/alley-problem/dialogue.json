@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "drLinoado",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Huh, I can't believe it. After all that, you STILL don't believe me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "worriedVeinady",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You REALLY think you can gain my trust?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "worriedVeinady",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No matter what you do, I will never believe a single word you say."
+		},
+		{
+			"speed": 0.25,
+			"portrait": "drLinoado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well then..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "drLinoado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you won't follow me to my lab..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "drLinoado",
+			"boxState": "angry",
+			"expression": "annoyed",
+			"text": "Then I will have to CAPTURE YOU!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "worriedVeinady",
+			"boxState": "angry",
+			"expression": "panic",
+			"text": "Oh no! SOMEBODY HELP ME!!!"
+		}
+	]
+}

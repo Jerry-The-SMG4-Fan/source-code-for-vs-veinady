@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Bep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous-mic",
+			"text": "I did good?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "veinady"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah, that was really good. It's also surprising since you said you have never sang before.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "Bo bep ba skep beedo dah.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk-mic",
+			"text": "Oh. You want me to sing another song with you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "veinady"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "veinady",
+			"boxState": "normal",
+			"expression": "talk-mic",
+			"text": "Sure, lets sing another song."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "Beep bo bap!"
+		}
+	]
+}

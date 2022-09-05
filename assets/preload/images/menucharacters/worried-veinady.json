@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M Worried Veinady Idle",
+	"image": "Menu_Worried_Veinady",
+	"position": [
+		200,
+		200
+	],
+	"scale": 0.45,
+	"confirm_anim": "M Worried Veinady Idle"
+}

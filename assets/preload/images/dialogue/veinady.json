@@ -1,0 +1,154 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		60,
+		-60
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-10,
+				-20
+			],
+			"loop_name": "Veinady Generic Talk",
+			"idle_name": "Veinady Generic0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-10,
+				-20
+			],
+			"loop_name": "Veinady Confused Talk",
+			"idle_name": "Veinady Confused0"
+		},
+		{
+			"loop_offsets": [
+				-10,
+				-8
+			],
+			"anim": "depressed",
+			"idle_offsets": [
+				-10,
+				-8
+			],
+			"loop_name": "Veinady Depressed",
+			"idle_name": "Veinady Depressed"
+		},
+		{
+			"loop_offsets": [
+				14,
+				10
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				-4,
+				-20
+			],
+			"loop_name": "Veinady Excited Talk",
+			"idle_name": "Veinady Excited0"
+		},
+		{
+			"loop_offsets": [
+				45,
+				0
+			],
+			"anim": "nervous",
+			"idle_offsets": [
+				30,
+				-20
+			],
+			"loop_name": "Veinady Nervous Talk",
+			"idle_name": "Veinady Nervous0"
+		},
+		{
+			"idle_offsets": [
+				-10,
+				-20
+			],
+			"anim": "talk-mic",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Veinady Generic With Mic0",
+			"loop_name": "Veinady Generic With Mic Talk"
+		},
+		{
+			"idle_offsets": [
+				-4,
+				-20
+			],
+			"anim": "excited-mic",
+			"loop_offsets": [
+				14,
+				10
+			],
+			"idle_name": "Veinady Excited With Mic0",
+			"loop_name": "Veinady Excited With Mic Talk"
+		},
+		{
+			"idle_offsets": [
+				30,
+				-20
+			],
+			"anim": "nervous-mic",
+			"loop_offsets": [
+				45,
+				0
+			],
+			"idle_name": "Veinady Nervous With Mic0",
+			"loop_name": "Veinady Nervous With Mic Talk"
+		},
+		{
+			"loop_offsets": [
+				180,
+				-3
+			],
+			"anim": "talk-fly",
+			"idle_offsets": [
+				171,
+				-23
+			],
+			"loop_name": "Veinady Flying Generic Talk",
+			"idle_name": "Veinady Flying Generic0"
+		},
+		{
+			"loop_offsets": [
+				180,
+				-3
+			],
+			"anim": "nervous-fly",
+			"idle_offsets": [
+				171,
+				-23
+			],
+			"loop_name": "Veinady Flying Nervous Talk",
+			"idle_name": "Veinady Flying Nervous0"
+		},
+		{
+			"loop_offsets": [
+				181,
+				6
+			],
+			"anim": "excited-fly",
+			"idle_offsets": [
+				171,
+				-23
+			],
+			"loop_name": "Veinady Flying Excited Talk",
+			"idle_name": "Veinady Flying Excited0"
+		}
+	],
+	"image": "Veinady_Dialogue"
+}

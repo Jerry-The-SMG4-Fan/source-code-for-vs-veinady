@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TRAPNOTE_assets.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue hold end0000" x="0" y="0" width="52" height="37"/>
+	<SubTexture name="blue hold piece0000" x="52" y="0" width="52" height="50"/>
+	<SubTexture name="blue00000" x="104" y="0" width="157" height="154"/>
+	<SubTexture name="green hold end0000" x="0" y="0" width="52" height="37"/>
+	<SubTexture name="green hold piece0000" x="52" y="0" width="52" height="50"/>
+	<SubTexture name="green00000" x="261" y="0" width="157" height="154"/>
+	<SubTexture name="pruple end hold0000" x="0" y="0" width="52" height="37"/>
+	<SubTexture name="purple hold piece0000" x="52" y="0" width="52" height="50"/>
+	<SubTexture name="purple00000" x="0" y="154" width="154" height="157"/>
+	<SubTexture name="red hold end0000" x="0" y="0" width="52" height="37"/>
+	<SubTexture name="red hold piece0000" x="52" y="0" width="52" height="50"/>
+	<SubTexture name="red00000" x="154" y="154" width="154" height="157"/>
+</TextureAtlas>

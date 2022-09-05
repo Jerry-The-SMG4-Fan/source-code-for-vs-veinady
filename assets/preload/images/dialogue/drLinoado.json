@@ -1,0 +1,50 @@
+{
+	"position": [
+		60,
+		-60
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "drLinoado_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-10,
+				-20
+			],
+			"loop_offsets": [
+				19,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Dr. Linoado Generic0",
+			"loop_name": "Dr. Linoado Generic Talk"
+		},
+		{
+			"loop_offsets": [
+				19,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-10,
+				-20
+			],
+			"loop_name": "Dr. Linoado Confused Talk",
+			"idle_name": "Dr. Linoado Confused0"
+		},
+		{
+			"loop_offsets": [
+				130,
+				-15
+			],
+			"anim": "annoyed",
+			"idle_offsets": [
+				130,
+				-15
+			],
+			"loop_name": "Dr. Linoado Annoyed Talk",
+			"idle_name": "Dr. Linoado Annoyed0"
+		}
+	]
+}

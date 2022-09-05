@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WorriedVeinady_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Worried Veinady Generic0000" x="935" y="0" width="481" height="745" frameX="0" frameY="0" frameWidth="492" frameHeight="769"/>
+	<SubTexture name="Worried Veinady Generic0001" x="935" y="0" width="481" height="745" frameX="0" frameY="0" frameWidth="492" frameHeight="769"/>
+	<SubTexture name="Worried Veinady Generic Talk0000" x="0" y="0" width="462" height="768" frameX="-30" frameY="0" frameWidth="492" frameHeight="769"/>
+	<SubTexture name="Worried Veinady Generic Talk0001" x="0" y="0" width="462" height="768" frameX="-30" frameY="0" frameWidth="492" frameHeight="769"/>
+	<SubTexture name="Worried Veinady Generic Talk0002" x="462" y="0" width="473" height="757" frameX="-13" frameY="-12" frameWidth="492" frameHeight="769"/>
+	<SubTexture name="Worried Veinady Generic Talk0003" x="462" y="0" width="473" height="757" frameX="-13" frameY="-12" frameWidth="492" frameHeight="769"/>
+	<SubTexture name="Worried Veinady Generic Talk0004" x="935" y="0" width="481" height="745" frameX="0" frameY="-24" frameWidth="492" frameHeight="769"/>
+	<SubTexture name="Worried Veinady Generic Talk0005" x="935" y="0" width="481" height="745" frameX="0" frameY="-24" frameWidth="492" frameHeight="769"/>
+	<SubTexture name="Worried Veinady Panic0000" x="1416" y="0" width="529" height="758"/>
+	<SubTexture name="Worried Veinady Panic0001" x="1416" y="0" width="529" height="758"/>
+	<SubTexture name="Worried Veinady Panic Talk0000" x="0" y="768" width="572" height="766" frameX="-2" frameY="0" frameWidth="574" frameHeight="766"/>
+	<SubTexture name="Worried Veinady Panic Talk0001" x="0" y="768" width="572" height="766" frameX="-2" frameY="0" frameWidth="574" frameHeight="766"/>
+	<SubTexture name="Worried Veinady Panic Talk0002" x="572" y="768" width="544" height="761" frameX="0" frameY="-5" frameWidth="574" frameHeight="766"/>
+	<SubTexture name="Worried Veinady Panic Talk0003" x="572" y="768" width="544" height="761" frameX="0" frameY="-5" frameWidth="574" frameHeight="766"/>
+	<SubTexture name="Worried Veinady Panic Talk0004" x="1116" y="768" width="529" height="758" frameX="-10" frameY="-8" frameWidth="574" frameHeight="766"/>
+	<SubTexture name="Worried Veinady Panic Talk0005" x="1116" y="768" width="529" height="758" frameX="-10" frameY="-8" frameWidth="574" frameHeight="766"/>
+</TextureAtlas>

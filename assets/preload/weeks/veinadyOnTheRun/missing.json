@@ -1,0 +1,48 @@
+{
+	"storyName": "Bat-Hunting Scientist",
+	"hideFreeplay": false,
+	"weekBackground": "alley",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "redWeek",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"dr-linoado",
+		"worried-veinady",
+		""
+	],
+	"songs": [
+		[
+			"Funkologist",
+			"linoado",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Cornered",
+			"linoado",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Alley Problem",
+			"linoado",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Missing Week"
+}

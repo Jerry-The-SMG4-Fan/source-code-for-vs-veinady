@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Linoado.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Linoado Idle0000" x="0" y="0" width="459" height="723"/>
+	<SubTexture name="M Linoado Idle0001" x="0" y="0" width="459" height="723"/>
+	<SubTexture name="M Linoado Idle0002" x="459" y="0" width="459" height="723"/>
+	<SubTexture name="M Linoado Idle0003" x="459" y="0" width="459" height="723"/>
+	<SubTexture name="M Linoado Idle0004" x="918" y="0" width="459" height="723"/>
+	<SubTexture name="M Linoado Idle0005" x="918" y="0" width="459" height="723"/>
+	<SubTexture name="M Linoado Idle0006" x="1377" y="0" width="459" height="723"/>
+	<SubTexture name="M Linoado Idle0007" x="1377" y="0" width="459" height="723"/>
+	<SubTexture name="M Linoado Idle0008" x="0" y="723" width="459" height="723"/>
+	<SubTexture name="M Linoado Idle0009" x="0" y="723" width="459" height="723"/>
+	<SubTexture name="M Linoado Idle0010" x="0" y="723" width="459" height="723"/>
+	<SubTexture name="M Linoado Idle0011" x="0" y="723" width="459" height="723"/>
+	<SubTexture name="M Linoado Idle0012" x="0" y="723" width="459" height="723"/>
+	<SubTexture name="M Linoado Idle0013" x="0" y="723" width="459" height="723"/>
+</TextureAtlas>

@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "veinadyStreet",
+		"player1": "bf",
+		"player2": "veinady",
+		"player3": null,
+		"events": [
+			[
+				66000,
+				[
+					[
+						"Change Scroll Speed",
+						"0.5",
+						"2"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Charged"
+	}
+}

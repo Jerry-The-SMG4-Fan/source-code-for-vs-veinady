@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="drLinoado.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down Pose Linoado0000" x="0" y="0" width="300" height="707" frameX="-7" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0001" x="0" y="0" width="300" height="707" frameX="-7" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0002" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0003" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0004" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0005" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0006" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0007" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0008" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0009" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0010" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0011" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0012" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0013" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0014" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0015" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0016" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0017" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0018" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0019" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0020" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0021" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0022" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0023" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0024" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0025" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0026" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0027" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0028" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Down Pose Linoado0029" x="300" y="0" width="300" height="707" frameX="0" frameY="0" frameWidth="307" frameHeight="707"/>
+	<SubTexture name="Idle0000" x="600" y="0" width="412" height="721" frameX="-47" frameY="-2" frameWidth="459" frameHeight="723"/>
+	<SubTexture name="Idle0001" x="600" y="0" width="412" height="721" frameX="-47" frameY="-2" frameWidth="459" frameHeight="723"/>
+	<SubTexture name="Idle0002" x="1012" y="0" width="399" height="723" frameX="-47" frameY="0" frameWidth="459" frameHeight="723"/>
+	<SubTexture name="Idle0003" x="1012" y="0" width="399" height="723" frameX="-47" frameY="0" frameWidth="459" frameHeight="723"/>
+	<SubTexture name="Idle0004" x="1411" y="0" width="372" height="723" frameX="-29" frameY="0" frameWidth="459" frameHeight="723"/>
+	<SubTexture name="Idle0005" x="1411" y="0" width="372" height="723" frameX="-29" frameY="0" frameWidth="459" frameHeight="723"/>
+	<SubTexture name="Idle0006" x="1783" y="0" width="359" height="719" frameX="-29" frameY="-4" frameWidth="459" frameHeight="723"/>
+	<SubTexture name="Idle0007" x="1783" y="0" width="359" height="719" frameX="-29" frameY="-4" frameWidth="459" frameHeight="723"/>
+	<SubTexture name="Idle0008" x="2142" y="0" width="383" height="716" frameX="0" frameY="-7" frameWidth="459" frameHeight="723"/>
+	<SubTexture name="Idle0009" x="2142" y="0" width="383" height="716" frameX="0" frameY="-7" frameWidth="459" frameHeight="723"/>
+	<SubTexture name="Idle0010" x="2142" y="0" width="383" height="716" frameX="0" frameY="-7" frameWidth="459" frameHeight="723"/>
+	<SubTexture name="Idle0011" x="2142" y="0" width="383" height="716" frameX="0" frameY="-7" frameWidth="459" frameHeight="723"/>
+	<SubTexture name="Idle0012" x="2142" y="0" width="383" height="716" frameX="0" frameY="-7" frameWidth="459" frameHeight="723"/>
+	<SubTexture name="Idle0013" x="2142" y="0" width="383" height="716" frameX="0" frameY="-7" frameWidth="459" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0000" x="2525" y="0" width="307" height="723" frameX="0" frameY="0" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0001" x="2525" y="0" width="307" height="723" frameX="0" frameY="0" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0002" x="2832" y="0" width="307" height="716" frameX="-1" frameY="-7" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0003" x="2832" y="0" width="307" height="716" frameX="-1" frameY="-7" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0004" x="2832" y="0" width="307" height="716" frameX="-1" frameY="-7" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0005" x="2832" y="0" width="307" height="716" frameX="-1" frameY="-7" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0006" x="2832" y="0" width="307" height="716" frameX="-1" frameY="-7" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0007" x="2832" y="0" width="307" height="716" frameX="-1" frameY="-7" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0008" x="2832" y="0" width="307" height="716" frameX="-1" frameY="-7" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0009" x="2832" y="0" width="307" height="716" frameX="-1" frameY="-7" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0010" x="2832" y="0" width="307" height="716" frameX="-1" frameY="-7" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0011" x="2832" y="0" width="307" height="716" frameX="-1" frameY="-7" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0012" x="2832" y="0" width="307" height="716" frameX="-1" frameY="-7" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0013" x="2832" y="0" width="307" height="716" frameX="-1" frameY="-7" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Left Pose Linoado0014" x="2832" y="0" width="307" height="716" frameX="-1" frameY="-7" frameWidth="308" frameHeight="723"/>
+	<SubTexture name="Linoado Activating A Trap0000" x="3139" y="0" width="539" height="722" frameX="-27" frameY="-12" frameWidth="608" frameHeight="734"/>
+	<SubTexture name="Linoado Activating A Trap0001" x="3139" y="0" width="539" height="722" frameX="-27" frameY="-12" frameWidth="608" frameHeight="734"/>
+	<SubTexture name="Linoado Activating A Trap0002" x="0" y="723" width="571" height="730" frameX="-6" frameY="-4" frameWidth="608" frameHeight="734"/>
+	<SubTexture name="Linoado Activating A Trap0003" x="0" y="723" width="571" height="730" frameX="-6" frameY="-4" frameWidth="608" frameHeight="734"/>
+	<SubTexture name="Linoado Activating A Trap0004" x="571" y="723" width="589" height="733" frameX="-1" frameY="-1" frameWidth="608" frameHeight="734"/>
+	<SubTexture name="Linoado Activating A Trap0005" x="571" y="723" width="589" height="733" frameX="-1" frameY="-1" frameWidth="608" frameHeight="734"/>
+	<SubTexture name="Linoado Activating A Trap0006" x="1160" y="723" width="608" height="734"/>
+	<SubTexture name="Linoado Activating A Trap0007" x="1160" y="723" width="608" height="734"/>
+	<SubTexture name="Linoado Activating A Trap0008" x="1768" y="723" width="573" height="734" frameX="0" frameY="0" frameWidth="608" frameHeight="734"/>
+	<SubTexture name="Linoado Activating A Trap0009" x="1768" y="723" width="573" height="734" frameX="0" frameY="0" frameWidth="608" frameHeight="734"/>
+	<SubTexture name="Linoado Activating A Trap0010" x="2341" y="723" width="575" height="734" frameX="0" frameY="0" frameWidth="608" frameHeight="734"/>
+	<SubTexture name="Linoado Activating A Trap0011" x="2341" y="723" width="575" height="734" frameX="0" frameY="0" frameWidth="608" frameHeight="734"/>
+	<SubTexture name="Linoado Activating A Trap0012" x="2916" y="723" width="590" height="734" frameX="0" frameY="0" frameWidth="608" frameHeight="734"/>
+	<SubTexture name="Linoado Activating A Trap0013" x="2916" y="723" width="590" height="734" frameX="0" frameY="0" frameWidth="608" frameHeight="734"/>
+	<SubTexture name="Linoado Activating A Trap0014" x="1160" y="723" width="608" height="734"/>
+	<SubTexture name="Linoado Activating A Trap0015" x="1160" y="723" width="608" height="734"/>
+	<SubTexture name="Right Pose Linoado0000" x="3506" y="723" width="460" height="720" frameX="-65" frameY="0" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0001" x="3506" y="723" width="460" height="720" frameX="-65" frameY="0" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0002" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0003" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0004" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0005" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0006" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0007" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0008" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0009" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0010" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0011" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0012" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0013" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0014" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0015" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0016" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0017" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0018" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0019" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0020" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0021" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0022" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0023" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0024" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0025" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0026" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0027" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0028" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0029" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0030" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0031" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0032" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0033" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0034" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0035" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0036" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0037" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0038" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0039" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0040" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0041" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0042" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0043" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0044" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0045" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0046" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0047" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0048" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0049" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0050" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0051" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0052" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0053" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0054" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0055" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0056" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0057" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0058" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0059" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0060" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Right Pose Linoado0061" x="0" y="1457" width="488" height="713" frameX="0" frameY="-7" frameWidth="525" frameHeight="720"/>
+	<SubTexture name="Up Pose Linoado0000" x="488" y="1457" width="421" height="724"/>
+	<SubTexture name="Up Pose Linoado0001" x="488" y="1457" width="421" height="724"/>
+	<SubTexture name="Up Pose Linoado0002" x="909" y="1457" width="333" height="716" frameX="-81" frameY="-8" frameWidth="421" frameHeight="724"/>
+	<SubTexture name="Up Pose Linoado0003" x="909" y="1457" width="333" height="716" frameX="-81" frameY="-8" frameWidth="421" frameHeight="724"/>
+	<SubTexture name="Up Pose Linoado0004" x="909" y="1457" width="333" height="716" frameX="-81" frameY="-8" frameWidth="421" frameHeight="724"/>
+	<SubTexture name="Up Pose Linoado0005" x="909" y="1457" width="333" height="716" frameX="-81" frameY="-8" frameWidth="421" frameHeight="724"/>
+	<SubTexture name="Up Pose Linoado0006" x="909" y="1457" width="333" height="716" frameX="-81" frameY="-8" frameWidth="421" frameHeight="724"/>
+	<SubTexture name="Up Pose Linoado0007" x="909" y="1457" width="333" height="716" frameX="-81" frameY="-8" frameWidth="421" frameHeight="724"/>
+	<SubTexture name="Up Pose Linoado0008" x="909" y="1457" width="333" height="716" frameX="-81" frameY="-8" frameWidth="421" frameHeight="724"/>
+	<SubTexture name="Up Pose Linoado0009" x="909" y="1457" width="333" height="716" frameX="-81" frameY="-8" frameWidth="421" frameHeight="724"/>
+	<SubTexture name="Up Pose Linoado0010" x="909" y="1457" width="333" height="716" frameX="-81" frameY="-8" frameWidth="421" frameHeight="724"/>
+	<SubTexture name="Up Pose Linoado0011" x="909" y="1457" width="333" height="716" frameX="-81" frameY="-8" frameWidth="421" frameHeight="724"/>
+	<SubTexture name="Up Pose Linoado0012" x="909" y="1457" width="333" height="716" frameX="-81" frameY="-8" frameWidth="421" frameHeight="724"/>
+	<SubTexture name="Up Pose Linoado0013" x="909" y="1457" width="333" height="716" frameX="-81" frameY="-8" frameWidth="421" frameHeight="724"/>
+	<SubTexture name="Up Pose Linoado0014" x="909" y="1457" width="333" height="716" frameX="-81" frameY="-8" frameWidth="421" frameHeight="724"/>
+</TextureAtlas>

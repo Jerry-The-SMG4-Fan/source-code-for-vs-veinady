@@ -1,0 +1,43 @@
+{
+	"storyName": "Bat on the Run",
+	"hideFreeplay": false,
+	"weekBackground": "street",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"veinady",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Seeing Red",
+			"veinady",
+			[
+				255,
+				119,
+				119
+			]
+		],
+		[
+			"Charged",
+			"veinady",
+			[
+				255,
+				119,
+				119
+			]
+		],
+		[
+			"Echolocating",
+			"veinady",
+			[
+				255,
+				119,
+				119
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Red Week"
+}

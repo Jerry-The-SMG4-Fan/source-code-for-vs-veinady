@@ -1,0 +1,42 @@
+{
+	"storyName": "Bat on the Run (Old)",
+	"hideFreeplay": false,
+	"weekBefore": "missing",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"veinady-old",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Seeing Red (Old)",
+			"veinady-old",
+			[
+				188,
+				188,
+				188
+			]
+		],
+		[
+			"Charged (Old)",
+			"veinady-old",
+			[
+				188,
+				188,
+				188
+			]
+		],
+		[
+			"Echolocating (Old)",
+			"veinady-old",
+			[
+				188,
+				188,
+				188
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Red Week (Old)"
+}

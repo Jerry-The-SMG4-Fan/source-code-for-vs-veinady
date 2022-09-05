@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Veinady",
+	"confirm_anim": "Veinady",
+	"position": [
+		125,
+		80
+	],
+	"scale": 0.649999999999999,
+	"image": "campaign_menu_UI_characters_veinady_old"
+}

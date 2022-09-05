@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Veinady_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Veinady Confused0000" x="0" y="0" width="540" height="744"/>
+	<SubTexture name="Veinady Confused0001" x="0" y="0" width="540" height="744"/>
+	<SubTexture name="Veinady Confused Talk0000" x="540" y="0" width="542" height="768" frameX="0" frameY="0" frameWidth="551" frameHeight="769"/>
+	<SubTexture name="Veinady Confused Talk0001" x="540" y="0" width="542" height="768" frameX="0" frameY="0" frameWidth="551" frameHeight="769"/>
+	<SubTexture name="Veinady Confused Talk0002" x="1082" y="0" width="538" height="755" frameX="-6" frameY="-13" frameWidth="551" frameHeight="769"/>
+	<SubTexture name="Veinady Confused Talk0003" x="1082" y="0" width="538" height="755" frameX="-6" frameY="-13" frameWidth="551" frameHeight="769"/>
+	<SubTexture name="Veinady Confused Talk0004" x="0" y="0" width="540" height="744" frameX="-11" frameY="-25" frameWidth="540" frameHeight="744"/>
+	<SubTexture name="Veinady Confused Talk0005" x="0" y="0" width="540" height="744" frameX="-11" frameY="-25" frameWidth="540" frameHeight="744"/>
+	<SubTexture name="Veinady Depressed0000" x="1620" y="0" width="534" height="760"/>
+	<SubTexture name="Veinady Depressed0001" x="2154" y="0" width="534" height="760"/>
+	<SubTexture name="Veinady Depressed0002" x="2688" y="0" width="534" height="760"/>
+	<SubTexture name="Veinady Excited0000" x="3222" y="0" width="561" height="746"/>
+	<SubTexture name="Veinady Excited0001" x="3222" y="0" width="561" height="746"/>
+	<SubTexture name="Veinady Excited Talk0000" x="3783" y="0" width="573" height="780" frameX="0" frameY="0" frameWidth="581" frameHeight="780"/>
+	<SubTexture name="Veinady Excited Talk0001" x="3783" y="0" width="573" height="780" frameX="0" frameY="0" frameWidth="581" frameHeight="780"/>
+	<SubTexture name="Veinady Excited Talk0002" x="4356" y="0" width="543" height="776" frameX="-26" frameY="-4" frameWidth="581" frameHeight="780"/>
+	<SubTexture name="Veinady Excited Talk0003" x="4356" y="0" width="543" height="776" frameX="-26" frameY="-4" frameWidth="581" frameHeight="780"/>
+	<SubTexture name="Veinady Excited Talk0004" x="4899" y="0" width="561" height="746" frameX="-20" frameY="-34" frameWidth="581" frameHeight="780"/>
+	<SubTexture name="Veinady Excited Talk0005" x="4899" y="0" width="561" height="746" frameX="-20" frameY="-34" frameWidth="581" frameHeight="780"/>
+	<SubTexture name="Veinady Excited With Mic0000" x="5460" y="0" width="562" height="746"/>
+	<SubTexture name="Veinady Excited With Mic0001" x="5460" y="0" width="562" height="746"/>
+	<SubTexture name="Veinady Excited With Mic Talk0000" x="6022" y="0" width="559" height="780" frameX="0" frameY="0" frameWidth="605" frameHeight="780"/>
+	<SubTexture name="Veinady Excited With Mic Talk0001" x="6022" y="0" width="559" height="780" frameX="0" frameY="0" frameWidth="605" frameHeight="780"/>
+	<SubTexture name="Veinady Excited With Mic Talk0002" x="6581" y="0" width="579" height="776" frameX="-26" frameY="-4" frameWidth="605" frameHeight="780"/>
+	<SubTexture name="Veinady Excited With Mic Talk0003" x="6581" y="0" width="579" height="776" frameX="-26" frameY="-4" frameWidth="605" frameHeight="780"/>
+	<SubTexture name="Veinady Excited With Mic Talk0004" x="7160" y="0" width="562" height="746" frameX="-20" frameY="-34" frameWidth="605" frameHeight="780"/>
+	<SubTexture name="Veinady Excited With Mic Talk0005" x="7160" y="0" width="562" height="746" frameX="-20" frameY="-34" frameWidth="605" frameHeight="780"/>
+	<SubTexture name="Veinady Flying Excited0000" x="0" y="780" width="831" height="714" frameX="-42" frameY="0" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited0001" x="831" y="780" width="915" height="714"/>
+	<SubTexture name="Veinady Flying Excited0002" x="831" y="780" width="915" height="714"/>
+	<SubTexture name="Veinady Flying Excited0003" x="0" y="780" width="831" height="714" frameX="-42" frameY="0" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited0004" x="1746" y="780" width="780" height="714" frameX="-71" frameY="0" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited0005" x="1746" y="780" width="780" height="714" frameX="-71" frameY="0" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited0006" x="2526" y="780" width="733" height="714" frameX="-93" frameY="0" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited0007" x="2526" y="780" width="733" height="714" frameX="-93" frameY="0" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited0008" x="3259" y="780" width="834" height="714" frameX="-48" frameY="0" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited0009" x="3259" y="780" width="834" height="714" frameX="-48" frameY="0" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited0010" x="4093" y="780" width="850" height="714" frameX="-39" frameY="0" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited0011" x="4093" y="780" width="850" height="714" frameX="-39" frameY="0" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited0012" x="4093" y="780" width="850" height="714" frameX="-39" frameY="0" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited0013" x="4093" y="780" width="850" height="714" frameX="-39" frameY="0" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited Talk0000" x="4943" y="780" width="832" height="747" frameX="-41" frameY="0" frameWidth="927" frameHeight="748"/>
+	<SubTexture name="Veinady Flying Excited Talk0001" x="5775" y="780" width="915" height="747" frameX="0" frameY="0" frameWidth="927" frameHeight="748"/>
+	<SubTexture name="Veinady Flying Excited Talk0002" x="6690" y="780" width="915" height="743" frameX="-12" frameY="-4" frameWidth="927" frameHeight="748"/>
+	<SubTexture name="Veinady Flying Excited Talk0003" x="0" y="1527" width="831" height="743" frameX="-54" frameY="-4" frameWidth="927" frameHeight="748"/>
+	<SubTexture name="Veinady Flying Excited Talk0004" x="1746" y="780" width="780" height="714" frameX="-83" frameY="-34" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited Talk0005" x="1746" y="780" width="780" height="714" frameX="-83" frameY="-34" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited Talk0006" x="831" y="1527" width="733" height="747" frameX="-93" frameY="0" frameWidth="927" frameHeight="748"/>
+	<SubTexture name="Veinady Flying Excited Talk0007" x="831" y="1527" width="733" height="747" frameX="-93" frameY="0" frameWidth="927" frameHeight="748"/>
+	<SubTexture name="Veinady Flying Excited Talk0008" x="1564" y="1527" width="834" height="743" frameX="-60" frameY="-4" frameWidth="927" frameHeight="748"/>
+	<SubTexture name="Veinady Flying Excited Talk0009" x="1564" y="1527" width="834" height="743" frameX="-60" frameY="-4" frameWidth="927" frameHeight="748"/>
+	<SubTexture name="Veinady Flying Excited Talk0010" x="4093" y="780" width="850" height="714" frameX="-51" frameY="-34" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Excited Talk0011" x="4093" y="780" width="850" height="714" frameX="-51" frameY="-34" frameWidth="915" frameHeight="714"/>
+	<SubTexture name="Veinady Flying Generic0000" x="2398" y="1527" width="831" height="712" frameX="-42" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic0001" x="3229" y="1527" width="915" height="712"/>
+	<SubTexture name="Veinady Flying Generic0002" x="3229" y="1527" width="915" height="712"/>
+	<SubTexture name="Veinady Flying Generic0003" x="2398" y="1527" width="831" height="712" frameX="-42" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic0004" x="4144" y="1527" width="780" height="712" frameX="-71" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic0005" x="4144" y="1527" width="780" height="712" frameX="-71" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic0006" x="4924" y="1527" width="733" height="712" frameX="-93" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic0007" x="4924" y="1527" width="733" height="712" frameX="-93" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic0008" x="5657" y="1527" width="834" height="712" frameX="-48" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic0009" x="5657" y="1527" width="834" height="712" frameX="-48" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic0010" x="6491" y="1527" width="850" height="712" frameX="-39" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic0011" x="6491" y="1527" width="850" height="712" frameX="-39" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic0012" x="6491" y="1527" width="850" height="712" frameX="-39" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic0013" x="6491" y="1527" width="850" height="712" frameX="-39" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic Talk0000" x="7341" y="1527" width="831" height="736" frameX="-42" frameY="0" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Generic Talk0001" x="0" y="2274" width="915" height="736" frameX="0" frameY="0" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Generic Talk0002" x="915" y="2274" width="915" height="724" frameX="-6" frameY="-13" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Generic Talk0003" x="1830" y="2274" width="832" height="724" frameX="-47" frameY="-13" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Generic Talk0004" x="4144" y="1527" width="780" height="712" frameX="-81" frameY="-25" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic Talk0005" x="4144" y="1527" width="780" height="712" frameX="-81" frameY="-25" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic Talk0006" x="2662" y="2274" width="733" height="736" frameX="-93" frameY="0" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Generic Talk0007" x="2662" y="2274" width="733" height="736" frameX="-93" frameY="0" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Generic Talk0008" x="3395" y="2274" width="834" height="724" frameX="-52" frameY="-13" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Generic Talk0009" x="3395" y="2274" width="834" height="724" frameX="-52" frameY="-13" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Generic Talk0010" x="6491" y="1527" width="850" height="712" frameX="-49" frameY="-25" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Generic Talk0011" x="6491" y="1527" width="850" height="712" frameX="-49" frameY="-25" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous0000" x="4229" y="2274" width="831" height="712" frameX="-42" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous0001" x="5060" y="2274" width="915" height="712"/>
+	<SubTexture name="Veinady Flying Nervous0002" x="5060" y="2274" width="915" height="712"/>
+	<SubTexture name="Veinady Flying Nervous0003" x="4229" y="2274" width="831" height="712" frameX="-42" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous0004" x="5975" y="2274" width="780" height="712" frameX="-71" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous0005" x="5975" y="2274" width="780" height="712" frameX="-71" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous0006" x="6755" y="2274" width="733" height="712" frameX="-93" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous0007" x="6755" y="2274" width="733" height="712" frameX="-93" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous0008" x="0" y="3010" width="834" height="712" frameX="-48" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous0009" x="0" y="3010" width="834" height="712" frameX="-48" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous0010" x="834" y="3010" width="850" height="712" frameX="-39" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous0011" x="834" y="3010" width="850" height="712" frameX="-39" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous0012" x="834" y="3010" width="850" height="712" frameX="-39" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous0013" x="834" y="3010" width="850" height="712" frameX="-39" frameY="0" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous Talk0000" x="1684" y="3010" width="831" height="736" frameX="-42" frameY="0" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Nervous Talk0001" x="2515" y="3010" width="915" height="736" frameX="0" frameY="0" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Nervous Talk0002" x="3430" y="3010" width="915" height="724" frameX="-6" frameY="-13" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Nervous Talk0003" x="4345" y="3010" width="832" height="724" frameX="-47" frameY="-13" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Nervous Talk0004" x="5975" y="2274" width="780" height="712" frameX="-81" frameY="-25" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous Talk0005" x="5975" y="2274" width="780" height="712" frameX="-81" frameY="-25" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous Talk0006" x="5177" y="3010" width="733" height="736" frameX="-93" frameY="0" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Nervous Talk0007" x="5177" y="3010" width="733" height="736" frameX="-93" frameY="0" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Nervous Talk0008" x="5910" y="3010" width="834" height="724" frameX="-52" frameY="-13" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Nervous Talk0009" x="5910" y="3010" width="834" height="724" frameX="-52" frameY="-13" frameWidth="921" frameHeight="737"/>
+	<SubTexture name="Veinady Flying Nervous Talk0010" x="834" y="3010" width="850" height="712" frameX="-49" frameY="-25" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Flying Nervous Talk0011" x="834" y="3010" width="850" height="712" frameX="-49" frameY="-25" frameWidth="915" frameHeight="712"/>
+	<SubTexture name="Veinady Generic0000" x="6744" y="3010" width="540" height="744"/>
+	<SubTexture name="Veinady Generic0001" x="6744" y="3010" width="540" height="744"/>
+	<SubTexture name="Veinady Generic Talk0000" x="7284" y="3010" width="542" height="768" frameX="0" frameY="0" frameWidth="551" frameHeight="769"/>
+	<SubTexture name="Veinady Generic Talk0001" x="7284" y="3010" width="542" height="768" frameX="0" frameY="0" frameWidth="551" frameHeight="769"/>
+	<SubTexture name="Veinady Generic Talk0002" x="0" y="3778" width="538" height="755" frameX="-6" frameY="-13" frameWidth="551" frameHeight="769"/>
+	<SubTexture name="Veinady Generic Talk0003" x="0" y="3778" width="538" height="755" frameX="-6" frameY="-13" frameWidth="551" frameHeight="769"/>
+	<SubTexture name="Veinady Generic Talk0004" x="6744" y="3010" width="540" height="744" frameX="-11" frameY="-25" frameWidth="540" frameHeight="744"/>
+	<SubTexture name="Veinady Generic Talk0005" x="6744" y="3010" width="540" height="744" frameX="-11" frameY="-25" frameWidth="540" frameHeight="744"/>
+	<SubTexture name="Veinady Generic With Mic0000" x="538" y="3778" width="480" height="744"/>
+	<SubTexture name="Veinady Generic With Mic0001" x="538" y="3778" width="480" height="744"/>
+	<SubTexture name="Veinady Generic With Mic Talk0000" x="1018" y="3778" width="461" height="768" frameX="0" frameY="0" frameWidth="491" frameHeight="769"/>
+	<SubTexture name="Veinady Generic With Mic Talk0001" x="1018" y="3778" width="461" height="768" frameX="0" frameY="0" frameWidth="491" frameHeight="769"/>
+	<SubTexture name="Veinady Generic With Mic Talk0002" x="1479" y="3778" width="471" height="755" frameX="-6" frameY="-13" frameWidth="491" frameHeight="769"/>
+	<SubTexture name="Veinady Generic With Mic Talk0003" x="1479" y="3778" width="471" height="755" frameX="-6" frameY="-13" frameWidth="491" frameHeight="769"/>
+	<SubTexture name="Veinady Generic With Mic Talk0004" x="538" y="3778" width="480" height="744" frameX="-11" frameY="-25" frameWidth="480" frameHeight="744"/>
+	<SubTexture name="Veinady Generic With Mic Talk0005" x="538" y="3778" width="480" height="744" frameX="-11" frameY="-25" frameWidth="480" frameHeight="744"/>
+	<SubTexture name="Veinady Nervous0000" x="1950" y="3778" width="588" height="744"/>
+	<SubTexture name="Veinady Nervous0001" x="1950" y="3778" width="588" height="744"/>
+	<SubTexture name="Veinady Nervous Talk0000" x="2538" y="3778" width="598" height="768" frameX="0" frameY="0" frameWidth="607" frameHeight="769"/>
+	<SubTexture name="Veinady Nervous Talk0001" x="2538" y="3778" width="598" height="768" frameX="0" frameY="0" frameWidth="607" frameHeight="769"/>
+	<SubTexture name="Veinady Nervous Talk0002" x="3136" y="3778" width="600" height="755" frameX="0" frameY="-13" frameWidth="607" frameHeight="769"/>
+	<SubTexture name="Veinady Nervous Talk0003" x="3136" y="3778" width="600" height="755" frameX="0" frameY="-13" frameWidth="607" frameHeight="769"/>
+	<SubTexture name="Veinady Nervous Talk0004" x="3736" y="3778" width="588" height="744" frameX="-19" frameY="-25" frameWidth="607" frameHeight="769"/>
+	<SubTexture name="Veinady Nervous Talk0005" x="3736" y="3778" width="588" height="744" frameX="-19" frameY="-25" frameWidth="607" frameHeight="769"/>
+	<SubTexture name="Veinady Nervous With Mic0000" x="4324" y="3778" width="522" height="744"/>
+	<SubTexture name="Veinady Nervous With Mic0001" x="4324" y="3778" width="522" height="744"/>
+	<SubTexture name="Veinady Nervous With Mic Talk0000" x="4846" y="3778" width="535" height="768" frameX="0" frameY="0" frameWidth="541" frameHeight="769"/>
+	<SubTexture name="Veinady Nervous With Mic Talk0001" x="4846" y="3778" width="535" height="768" frameX="0" frameY="0" frameWidth="541" frameHeight="769"/>
+	<SubTexture name="Veinady Nervous With Mic Talk0002" x="5381" y="3778" width="537" height="755" frameX="0" frameY="-13" frameWidth="541" frameHeight="769"/>
+	<SubTexture name="Veinady Nervous With Mic Talk0003" x="5381" y="3778" width="537" height="755" frameX="0" frameY="-13" frameWidth="541" frameHeight="769"/>
+	<SubTexture name="Veinady Nervous With Mic Talk0004" x="5918" y="3778" width="522" height="744" frameX="-19" frameY="-25" frameWidth="541" frameHeight="769"/>
+	<SubTexture name="Veinady Nervous With Mic Talk0005" x="5918" y="3778" width="522" height="744" frameX="-19" frameY="-25" frameWidth="541" frameHeight="769"/>
+</TextureAtlas>

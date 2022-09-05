@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "Bep ba beep?",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Uh...where did she go?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited-fly",
+			"text": "I'm up here!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "veinady"
+		},
+		{
+			"expression": "confused",
+			"text": "I know you're a bat, but is it really nessasary that you are flying right now while you and Boyfriend are rap battling?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "nervous-fly",
+			"text": "You'd be surprised to know how rare it is to see me actually use my wings.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "veinady"
+		},
+		{
+			"expression": "talk-fly",
+			"text": "The last time I used my wings was 3 months ago, so I want to use it again.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "veinady"
+		},
+		{
+			"expression": "excited-fly",
+			"text": "Not to mention, it seems like we have a crowd of people watching us sing, so I figured I'd fly to make the rap battle more interesting.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "veinady"
+		},
+		{
+			"expression": "talk-fly",
+			"text": "I guess a rap battle between an anthro bat and a blue-haired guy is interesting enough to gather a crowd.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "veinady"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep ba bop dep skeedo dee bo bap.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk-fly",
+			"text": "Yeah, I agree. Let's sing one more song, and we'll make it as interesting as possible for the crowd.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "veinady"
+		},
+		{
+			"expression": "excited",
+			"text": "Bap!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

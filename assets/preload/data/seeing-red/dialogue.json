@@ -1,0 +1,235 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Huh? Who bumped into me?",
+			"boxState": "normal",
+			"portrait": "veinady",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Beep bo.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Oh...sorry ma'am...we were just taking a walk and we didn't see you there.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Beeb ba skep bep bo skepdadep da boop?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "It's alright. I forgive you two.",
+			"boxState": "normal",
+			"portrait": "veinady",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Great! Anyways, who are you?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh...my name's Veinady. I'm an anthro bat. What's your name?",
+			"boxState": "normal",
+			"portrait": "veinady",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, my name is ''Girlfriend'', and this is\\n''Boyfriend.''",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "Bee!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, hello, Boyfriend and Girlfriend. It's very nice to meet you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "veinady"
+		},
+		{
+			"expression": "talk",
+			"text": "So uh, Veinady...Where did you come from?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "depressed",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "veinady",
+			"speed": 0.05
+		},
+		{
+			"expression": "nervous",
+			"text": "I'd rather not talk about it...it still haunts me to this day, literally...",
+			"boxState": "normal",
+			"portrait": "veinady",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Okay?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.3
+		},
+		{
+			"expression": "pissed",
+			"text": "Beep ba skep do!!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh? You want me to participate in one of your rap battles?",
+			"boxState": "normal",
+			"portrait": "veinady",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "Beeyah!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Um...I have never sang before...",
+			"boxState": "normal",
+			"portrait": "veinady",
+			"speed": 0.15
+		},
+		{
+			"expression": "talk",
+			"text": "But I guess it won't hurt to try!",
+			"boxState": "normal",
+			"portrait": "veinady",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Boi boa beep da.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "You have multiple colored microphones?",
+			"boxState": "normal",
+			"portrait": "veinady",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah. Which color do you wanna choose? Red? Green? Yellow? Blue? Orange? Purple? Brown? Grey? Orchid? Mac n' Cheese? Hot Sauce?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Hell...Boyfriend...how much did you spend on microphones? 'Cause there are like a 150+ microphones in your collection.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Bep bo.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "YOU SPENT OVER 10 GRANDS ON \\nMICROPHONES?!?!?!?!",
+			"boxState": "angry",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Bep.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "*Sigh* Boyfriend...I love you...but you need to lay off your microphone addiction.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Uh...excuse me?",
+			"boxState": "normal",
+			"portrait": "veinady",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Right...I forgot you're choosing a mic...sorry. Where was I? Oh yeah. Which color do you want?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Red. I LOVE red.",
+			"boxState": "normal",
+			"portrait": "veinady",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "'Ight. Here you go.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited-mic",
+			"text": "I'm ready!",
+			"boxState": "angry",
+			"portrait": "veinady",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "BEEP!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}

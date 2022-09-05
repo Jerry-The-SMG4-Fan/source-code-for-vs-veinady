@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="drLinoado_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dr. Linoado Annoyed0000" x="0" y="0" width="529" height="722"/>
+	<SubTexture name="Dr. Linoado Annoyed0001" x="529" y="0" width="529" height="722"/>
+	<SubTexture name="Dr. Linoado Annoyed Talk0000" x="1058" y="0" width="573" height="722"/>
+	<SubTexture name="Dr. Linoado Annoyed Talk0001" x="1631" y="0" width="573" height="722"/>
+	<SubTexture name="Dr. Linoado Annoyed Talk0002" x="2204" y="0" width="573" height="722"/>
+	<SubTexture name="Dr. Linoado Annoyed Talk0003" x="2777" y="0" width="573" height="722"/>
+	<SubTexture name="Dr. Linoado Annoyed Talk0004" x="3350" y="0" width="573" height="722"/>
+	<SubTexture name="Dr. Linoado Annoyed Talk0005" x="0" y="722" width="573" height="722"/>
+	<SubTexture name="Dr. Linoado Confused0000" x="573" y="722" width="383" height="716"/>
+	<SubTexture name="Dr. Linoado Confused0001" x="573" y="722" width="383" height="716"/>
+	<SubTexture name="Dr. Linoado Confused Talk0000" x="956" y="722" width="416" height="739"/>
+	<SubTexture name="Dr. Linoado Confused Talk0001" x="956" y="722" width="416" height="739"/>
+	<SubTexture name="Dr. Linoado Confused Talk0002" x="1372" y="722" width="416" height="739"/>
+	<SubTexture name="Dr. Linoado Confused Talk0003" x="1372" y="722" width="416" height="739"/>
+	<SubTexture name="Dr. Linoado Confused Talk0004" x="1788" y="722" width="416" height="739"/>
+	<SubTexture name="Dr. Linoado Confused Talk0005" x="1788" y="722" width="416" height="739"/>
+	<SubTexture name="Dr. Linoado Generic0000" x="2204" y="722" width="383" height="716"/>
+	<SubTexture name="Dr. Linoado Generic0001" x="2204" y="722" width="383" height="716"/>
+	<SubTexture name="Dr. Linoado Generic Talk0000" x="2587" y="722" width="416" height="739"/>
+	<SubTexture name="Dr. Linoado Generic Talk0001" x="2587" y="722" width="416" height="739"/>
+	<SubTexture name="Dr. Linoado Generic Talk0002" x="3003" y="722" width="416" height="739"/>
+	<SubTexture name="Dr. Linoado Generic Talk0003" x="3003" y="722" width="416" height="739"/>
+	<SubTexture name="Dr. Linoado Generic Talk0004" x="3419" y="722" width="416" height="739"/>
+	<SubTexture name="Dr. Linoado Generic Talk0005" x="3419" y="722" width="416" height="739"/>
+</TextureAtlas>

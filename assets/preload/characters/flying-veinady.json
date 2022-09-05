@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-29
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": [
+				1,8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Left",
+			"indices": [
+				1,8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right",
+			"indices": [
+				1,8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				14
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": [
+				1,8
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				14,15,16,17,18,19,20,21,22,23,24,25,26,27
+			],
+			"name": "Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-29
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": [
+				14,15,2,3,4,5,6,7,8,9,10,11,12,13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				22,
+				-21
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Sing Left",
+			"indices": [
+				14,15,2,3,4,5,6,7,8,9,10,11,12,13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-30,
+				-11
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Sing Right",
+			"indices": [
+				14,15,2,3,4,5,6,7,8,9,10,11,12,13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				14
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": [
+				14,15,2,3,4,5,6,7,8,9,10,11,12,13
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/veinadyFlying",
+	"position": [
+		-10,
+		-822
+	],
+	"healthicon": "veinady",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		119,
+		119
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				223,
+				924
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Game Over0"
+		},
+		{
+			"offsets": [
+				-130,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right0"
+		},
+		{
+			"offsets": [
+				-111,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left0"
+		},
+		{
+			"offsets": [
+				-16,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up0"
+		},
+		{
+			"offsets": [
+				-150,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down0"
+		},
+		{
+			"offsets": [
+				3,
+				392
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Game Over Loop"
+		},
+		{
+			"offsets": [
+				67,
+				924
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Game Over Retry"
+		},
+		{
+			"offsets": [
+				238,
+				921
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Dodge Sprite"
+		},
+		{
+			"offsets": [
+				-111,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Sing Left Miss"
+		},
+		{
+			"offsets": [
+				-130,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Sing Right Miss"
+		},
+		{
+			"offsets": [
+				-16,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Sing Up Miss"
+		},
+		{
+			"offsets": [
+				-150,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Sing Down Miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/veinadyWorried",
+	"position": [
+		40,
+		-32
+	],
+	"healthicon": "veinady",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		119,
+		119
+	],
+	"camera_position": [
+		200,
+		-570
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

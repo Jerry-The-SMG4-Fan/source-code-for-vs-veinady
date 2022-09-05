@@ -1,0 +1,3 @@
+Before you say that alley-problem-why.json is too hard since every note is a Trap Note, please remember that it's a joke chart. I didn't make the chart hidden for no reason. alley-problem-why.json is a secret chart because it's extremely hard.
+
+You can also assume that alley-problem-why.json is a "no miss" chart, so if you can already get an FC (Full Combo) on the Hard difficulty of Alley Problem, alley-problem-why.json should be easy for you.

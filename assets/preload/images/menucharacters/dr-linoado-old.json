@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Dr. Linoado",
+	"confirm_anim": "Dr. Linoado",
+	"position": [
+		115,
+		100
+	],
+	"scale": 0.7,
+	"image": "campaign_menu_UI_characters_veinady_old"
+}

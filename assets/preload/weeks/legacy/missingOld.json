@@ -1,0 +1,29 @@
+{
+	"storyName": "Bat Finding Scientist (Old)",
+	"hideFreeplay": false,
+	"weekBefore": "redWeekOld",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Funkologist (Old)",
+			"linoado-old",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dr-linoado-old",
+		"bf",
+		"gf"
+	],
+	"weekName": "Missing Week (Old)"
+}
